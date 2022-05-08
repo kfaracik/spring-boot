@@ -1,5 +1,6 @@
-package com.example.springboot;
+package com.example.springboot.dependencyinjection;
 
+import com.example.springboot.dependencyinjection.DatabaseConnection;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

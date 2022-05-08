@@ -1,4 +1,4 @@
-package com.example.springboot;
+package com.example.springboot.dependencyinjection;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
